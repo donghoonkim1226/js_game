@@ -1,0 +1,1 @@
+<?php require('js_game.html'); ?>
